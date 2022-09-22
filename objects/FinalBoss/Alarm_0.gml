@@ -1,0 +1,1 @@
+/// @desc dummy bullet alarm

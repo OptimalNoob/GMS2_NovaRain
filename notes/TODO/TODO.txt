@@ -1,0 +1,71 @@
+This is a doc to outline some of the things that still need to be done and general thoughts.
+[Sorted by Priority High to Low (Completed at Top)]
+
+//-Small thought dump on bullets. We don't exactly have the luxury of using the built-in collision detection
+//gamemaker has. That's important becuase it allows us to get the actual instance id of the colliding object.
+//We could attempt to use the standard 2d collision, which would return regardless of depth. But it also
+//gives us an ID, so we could check the zmov coordinate that we know we should have and compare to see if it
+//is a true hit. I really hope that works.
+
+//-Convert enemy into a series of 3D planes to allow for easy 3D collision checking.
+//	-Might use multiple buffers?
+
+//-In addition to the above, perhaps find a way to facilitate easier texture grouping.
+//	-Not completely necessary, however it would improve work speed in the future
+ 
+//-Explore the timeline feature to construct levels. This would allow frame by frame control of spawning.
+
+//-Apply uv coord info on cube function, is tedious so I'm holding off on it for now
+
+//-Finish Title Screen
+//	//-Start Game Button
+//	//-How To Play!!!
+//	//-Options Button?
+//	//	-Adjust Audio Levels
+//	//-Credits Button
+//	//-Quit Game
+
+//-Credits Screen
+
+//-Ground enemies
+
+//-Shop System? (Space Station?)
+
+//-End Level Screen (Get Money, Fuck Bitches)
+
+******************** EVERYTHING ABOVE THIS LINE IS COMPLETED ********************
+
+
+-CLEAN UP BUFFERS WHEN NOT IN USE!!!
+
+-World Building / More Levels
+
+-Opening Cutscene?
+	-Animated? Comic Style? Still Images?
+	-Skip Intro
+
+-End Cutscene / Roll Credits
+
+
+******************** EVERYTHING ABOVE THIS LINE IS 'The last 5%' ********************
+
+-Bosses at end stage
+
+-Level Selection Screen / Progression
+
+-Pester Josh for Music
+
+-Create basic art to convey the "story".
+	-Main character
+	-The antagonists
+	-Some form of supporting cast? For instance, end of level shopkeep?
+
+-Powerups/Pickups?
+
+-More Enemy Designs
+
+-Shield System
+
+-Powerups/Pickups?
+
+--- Polish / F l u s h

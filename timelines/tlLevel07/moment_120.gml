@@ -1,0 +1,1 @@
+spawn_building(4,2,4,Cube02, 2700, -1, 5300, sBuilding07b);

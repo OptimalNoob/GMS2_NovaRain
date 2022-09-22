@@ -1,0 +1,1 @@
+spawn_formation(Enemy02, 220, 500, 5000, formation.f8)
